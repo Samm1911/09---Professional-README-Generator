@@ -9,11 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.18.2",
     "inquirer": "^8.2.4"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Samm1911/09-Professional-README-Generator"
+    "url": "git+https://github.com/Samm1911/09-Professional-README-Generator.git"
   },
   "keywords": [],
   "bugs": {
